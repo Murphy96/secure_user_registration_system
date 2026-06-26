@@ -5,10 +5,12 @@ This project creates a simple secure user registration system using Python.
 ## Project Requirements 
 
 ### 1) Simulate a Database 
-      This step creates two global lists to simulate a connection to a database. 
+
+This step creates two global lists to simulate a connection to a database. 
 
 ### 2) Validation Functions 
- This section contains 3 functions: 
+ 
+This section contains 3 functions: 
       
 **validate_name(name)** validates the name has at least 3 characters, returns True if valid, otherwise False
 
